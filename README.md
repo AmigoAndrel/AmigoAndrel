@@ -8,5 +8,5 @@
 AmigoAndrel/AmigoAndrel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-print 10
-goto 11
+1 print 2
+2 goto 1
